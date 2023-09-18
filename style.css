@@ -1,12 +1,29 @@
 body{
-    background: teal;
-}
-h1 {
-    font-size: 40px;
+    background-image: url(breaking\ bad\ smoke.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
 }
 .topic-header {
-    font-size: 25px;
+    font-size: 30px;
+    color: rgb(195, 223, 248);
 }
 .blog-title {
-    background-color: green
+    font-size: 50;
+    background-color: rgb(3, 177, 154);
+    margin-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 5px 50px;
+}
+span {
+    color: green;
+}
+.myname {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.gus {
+    position: absolute;
+    margin: 0 20 20 20
 }
